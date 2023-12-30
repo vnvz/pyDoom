@@ -1,6 +1,7 @@
 import pygame as pg
 import sys
 from settings import *
+from map import *
 
 class Game:
     def __init__(self):
